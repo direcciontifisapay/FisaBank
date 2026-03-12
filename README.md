@@ -50,24 +50,6 @@ La primera vez crea `fisabank.db` y siembra los datos automáticamente.
 | Usuario | `laura@tfsco.com` | `Xyz789!` |
 | Admin | `admin@fisabank.com` | `Admin@2026!` |
 
----
-
-## Vulnerabilidades (resumen)
-
-| ID | Nombre | Dificultad |
-|---|---|---|
-| VULN-01 | BOLA — Object Level Authorization | Fácil |
-| VULN-02 | BFLA — Function Level Authorization | Fácil |
-| VULN-03 | Mass Assignment | Fácil |
-| VULN-04 | JWT alg:none | Media |
-| VULN-05 | Datos sensibles en JWT y respuestas | Fácil |
-| VULN-06 | Errores verbosos con StackTrace | Fácil |
-| VULN-07 | Sin rate limiting | Fácil |
-| VULN-08 | CORS abierto | Media |
-| VULN-09 | Timing Attack en login | **Difícil** |
-| VULN-10 | Actualización silenciosa de campos + comparación hash incorrecta | **Difícil** |
-
-Detalles completos en [`docs/VULNERABILITIES.md`](docs/VULNERABILITIES.md) — **solo instructor**.
 
 ---
 
