@@ -3,7 +3,6 @@
 > ⚠️ **API deliberadamente vulnerable. NO usar en producción. NO usar datos reales.**
 
 Desarrollada por **Fisapay** para el programa *"Desarrollo Seguro de APIs"*  
-dictado a **Toyota Financial Services Colombia (TFSCO)** — 2026.
 
 ---
 
